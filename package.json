@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "iview": "^2.13.1",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "url-loader": "^1.0.1"
+  }
+}
